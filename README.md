@@ -10,6 +10,6 @@ A specialized Man-in-the-Middle tool designed for **Termux** and **Kali NetHunte
 ## 🚀 Installation
 Open Termux/NetHunter and run:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/mitm-pro-2026.git](https://github.com/YOUR_USERNAME/mitm-pro-2026.git)
+git clone [https://github.com/YOUR_USERNAME/mitm-pro-2026.git](https://github.com/yashkhanofficial/mitm_tool.git)
 cd mitm-pro-2026
 bash setup.sh
